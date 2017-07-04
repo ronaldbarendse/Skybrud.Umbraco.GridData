@@ -300,6 +300,7 @@
     <Compile Include="Rendering\GridControlWrapper.cs" />
     <Compile Include="Values\GridControlHtmlValue.cs" />
     <Compile Include="Values\GridControlMediaFocalPoint.cs" />
+    <Compile Include="Values\GridControlMediaValueBase.cs" />
     <Compile Include="Values\GridControlRichTextValue.cs" />
     <Compile Include="Values\GridControlTextValue.cs" />
     <Compile Include="Values\GridControlEmbedValue.cs" />
